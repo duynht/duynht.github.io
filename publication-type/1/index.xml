@@ -17,7 +17,8 @@
       <link>https://duynht.github.io/publication/protein_domains/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/protein_domains/</guid>
-      <description></description>
+      <description>&lt;p&gt;This paper assesses the ability of five methods to retrieve similar protein surfaces, using either their shape only (3D meshes), or their shape and the electrostatic potential at their surface, an important surface property.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <link>https://duynht.github.io/publication/image_text/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/image_text/</guid>
-      <description></description>
+      <description>&lt;p&gt;We propose three multi-modal methods for mapping text and images of news articles to the shared space in order to perform efficient cross-retrieval.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +35,8 @@
       <link>https://duynht.github.io/publication/kinship/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/kinship/</guid>
-      <description></description>
+      <description>&lt;p&gt;We employ 3 methods, FaceNet, Siamese VGGFace, and a combination of FaceNet and VGG-Face models as feature extractors, to achieve the 9th standing for kinship verification and the 5th standing for kinship retrieval in the Recognizing Family in The Wild 2020 competition.&lt;/p&gt;
+</description>
     </item>
     
     <item>
