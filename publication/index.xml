@@ -5,7 +5,7 @@
     <link>https://duynht.github.io/publication/</link>
       <atom:link href="https://duynht.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://duynht.github.io/media/icon_hua19636e4b669d866f23e0e3bea925e22_51837_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,34 @@
     </image>
     
     <item>
-      <title>SHREC 2021: Retrieval and classification of protein surfaces equipped with physical and chemical properties</title>
+      <title>Vietnamese Speech-based Question Answering over Car Manuals (DCAI@NeurIPS2021 and IUI 2022)</title>
+      <link>https://duynht.github.io/publication/vi_carqa/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://duynht.github.io/publication/vi_carqa/</guid>
+      <description>&lt;p&gt;We develop QA-CarManual as a lightweight, real-time and interactive system that integrates state-of-the-art technologies in language and speech processing to (i) understand and interact with users via speech commands and (ii) automatically query the knowledge base and return answers in both forms of text and speech as well as visualization.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://duynht.github.io/publication/vi_carqa/featured.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SHREC 2021: Retrieval and classification of protein surfaces equipped with physical and chemical properties (CAG Vol. 99)</title>
       <link>https://duynht.github.io/publication/protein_classes/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/protein_classes/</guid>
@@ -22,7 +49,7 @@
     </item>
     
     <item>
-      <title>SHREC 2021: Surface-based Protein Domains Retrieval</title>
+      <title>SHREC 2021: Surface-based Protein Domains Retrieval (3DOR 2021)</title>
       <link>https://duynht.github.io/publication/protein_domains/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/protein_domains/</guid>
@@ -31,7 +58,16 @@
     </item>
     
     <item>
-      <title>Towards a Gratifying Interactive Modality for Smart Environments based on Ubiquitous Sensing</title>
+      <title>Surface-based protein domains retrieval methods from a SHREC2021 challenge (JMGM Vol. 111)</title>
+      <link>https://duynht.github.io/publication/protein_domains_journal/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://duynht.github.io/publication/protein_domains_journal/</guid>
+      <description>&lt;p&gt;Five different groups participated in this contest using the shape-only dataset, and one group extended its pre-existing method to handle the electrostatic potential. Our comparative study reveals both the ability of the methods to detect related proteins and their difficulties to distinguish between highly related proteins. Our study allows also to analyze the putative influence of electrostatic information in addition to the one of protein shapes alone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards a Gratifying Interactive Modality for Smart Environments based on Ubiquitous Sensing (BSc. Thesis)</title>
       <link>https://duynht.github.io/publication/accel_watch/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/accel_watch/</guid>
@@ -40,7 +76,7 @@
     </item>
     
     <item>
-      <title>HCMUS at MediaEval 2020: Image-Text Fusion for Automatic News-Images Re-Matching</title>
+      <title>HCMUS at MediaEval 2020: Image-Text Fusion for Automatic News-Images Re-Matching (MediaEval 2020)</title>
       <link>https://duynht.github.io/publication/image_text/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/image_text/</guid>
@@ -49,7 +85,7 @@
     </item>
     
     <item>
-      <title>Recognizing Families through Images with Pretrained Encoder</title>
+      <title>Recognizing Families through Images with Pretrained Encoder (FG 2020)</title>
       <link>https://duynht.github.io/publication/kinship/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://duynht.github.io/publication/kinship/</guid>
